@@ -1,0 +1,61 @@
+distance.get('destination_addresses').get('origin_addresses').get('rows')[0][1]
+{
+    'destination_addresses': 
+        [
+            'New Jersey, USA', 
+            'Ohio, USA', 
+            'California, USA'
+        ], 
+    'origin_addresses': 
+        [
+            'Maryland, USA'
+        ], 
+    'rows': 
+        [
+            {
+                'elements': 
+                    [
+                        {
+                            'distance': 
+                                {
+                                    'text': '280 km', 
+                                    'value': 279547
+                                },
+                            'duration': 
+                                {
+                                    'text': '2 hours 54 mins', 
+                                    'value': 10457
+                                }, 
+                            'status': 'OK'
+                        }, 
+                        {
+                            'distance': 
+                                {
+                                    'text': '740 km', 
+                                    'value': 740055
+                                }, 
+                            'duration': 
+                                {
+                                    'text': '7 hours 5 mins',
+                                    'value': 25496
+                                }, 
+                            'status': 'OK'
+                        }, 
+                        {
+                            'distance': 
+                                {
+                                    'text': '4,482 km', 
+                                    'value': 4481878
+                                }, 
+                            'duration': 
+                                {
+                                    'text': '1 day 18 hours', 
+                                    'value': 150554
+                                }, 
+                            'status': 'OK'
+                        }
+                    ]
+            }
+        ], 
+    'status': 'OK'
+}

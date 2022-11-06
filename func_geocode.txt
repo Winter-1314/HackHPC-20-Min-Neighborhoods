@@ -1,0 +1,71 @@
+[
+{
+'address_components':
+  [
+  {
+    'long_name': '7777',
+    'short_name': '7777', 
+    'types': ['street_number']},
+  {
+
+    'long_name': 'East 21st Street North',
+    'short_name': 'E 21st St N',
+    'types': ['route']},
+
+  {
+    'long_name': 'Wichita',
+    'short_name': 'Wichita',
+    'types': ['locality', 'political']},
+
+  {
+    'long_name': 'Sedgwick County', 
+    'short_name': 'Sedgwick County', 
+    'types': ['administrative_area_level_2', 'political']}, 
+
+{
+    'long_name': 'Kansas',
+    'short_name': 'KS',
+    'types': ['administrative_area_level_1', 'political']}, 
+
+{
+    'long_name': 'United States',
+    'short_name': 'US', 
+    'types': ['country', 'political']}, 
+{
+    'long_name': '67206',
+    'short_name': '67206', 
+    'types': ['postal_code']
+},
+{
+    'long_name': '1089',
+    'short_name': '1089', 
+    'types': ['postal_code_suffix']}
+], 
+'formatted_address': '7777 E 21st St N, Wichita, KS 67206, USA', 'geometry': 
+{
+  'location': 
+{
+        'lat': 37.722427,
+        'lng': -97.2467178}, 
+        'location_type': 'ROOFTOP', 
+        'viewport': {
+              'northeast': 
+          {
+                'lat': 37.72384383029149,
+                'lng': -97.2453677697085
+},
+              'southwest': {
+                'lat': 37.7211458697085, 
+                'lng': -97.2480657302915
+}
+}
+}, 
+'partial_match': True, 
+'place_id': 'ChIJl9ErGSP9uocRT34DLfkcHkM', 
+'plus_code': {
+  'compound_code': 'PQC3+X8 Wichita, KS',
+  'global_code': '8694PQC3+X8'
+}, 
+'types': ['street_address']
+}
+]

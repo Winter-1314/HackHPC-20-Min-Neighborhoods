@@ -1,0 +1,140 @@
+temp.get(result).get(address_componets)[0].get(long_name) # Access Street Number
+{
+'html_attributions': [], 
+'result': 
+    {
+        'address_components': 
+                [
+                    {
+                        'long_name': '301', 
+                        'short_name': '301', 
+                        'types': ['street_number']
+                    }, 
+                    {
+                        'long_name': 'West Main Street', 
+                        'short_name': 'W Main St', 
+                        'types': ['route']
+                    }, 
+                    {
+                        'long_name': 'Independence', 
+                        'short_name': 'Independence', 
+                        'types': ['locality', 'political']
+                    }, 
+                    {
+                        'long_name': 'Montgomery County', 
+                        'short_name': 'Montgomery County', 
+                        'types': ['administrative_area_level_2', 'political']
+                    }, 
+                    {
+                        'long_name': 'Kansas', 
+                        'short_name': 'KS', 
+                        'types': ['administrative_area_level_1', 'political']
+                    }, 
+                    {
+                        'long_name': 'United States', 
+                        'short_name': 'US', 
+                        'types': ['country', 'political']
+                    }, 
+                    {
+                        'long_name': '67301', 
+                        'short_name': '67301', 
+                        'types': ['postal_code']
+                    }
+                ], 
+                  'adr_address': '<span class="street-address">301 W Main St</span>, 
+                                  <span class="locality">Independence</span>, 
+                                  <span class="region">KS</span> <span class="postal-code">67301</span>,
+                                  <span class="country-name">USA</span>', 
+                  'business_status': 'OPERATIONAL', 
+                  'curbside_pickup': True, 
+                  'current_opening_hours': 
+                      {
+                          'open_now': True, 
+                          'periods': 
+                                [
+                                    {
+                                        'close': 
+                                      {
+                                          'date': '2022-11-06', 
+                                          'day': 0, 
+                                          'time': '2100'
+                                      }, 
+                                        'open': 
+                                      {
+                                          'date': '2022-11-06', 
+                                          'day': 0, 
+                                          'time': '0900'
+                                      }
+                                    }, 
+                                      {
+                                        'close': 
+                                      {
+                                          'date': '2022-11-07', 
+                                          'day': 1, 
+                                          'time': '2200'
+                                      }, 
+                                        'open': 
+                                      {
+                                          'date': '2022-11-07', 
+                                          'day': 1, 'time': '0800'}}, 'close': {'date': '2022-11-08',                                               'day': 2, 'time': '2200'}, 'open': 'date
+                                        ...
+                                    ], 
+                                          'weekday_text': ['Monday: 8:00 AM – 10:00 PM', 
+                                                          'Tuesday: 8:00 AM – 10:00 PM', 
+                                                          'Wednesday: 8:00 AM – 10:00 PM', '...']
+                                        }, 
+                                          'delivery': True, 
+                                          'editorial_summary': 
+                                        {
+                                          'language': 'en', 
+                                          'overview': 'Drugstore chain with health & beauty aids,  
+                                                       prescriptions & photo services, 
+                                                       plus mini-mart basics.''
+                                        }, 
+                                          'formatted_address': '301 W Main St, Independence, KS 67301, USA', 
+                                          'formatted_phone_number': '(620) 331-7594', 
+                                          'geometry': 
+                                        {
+                                          'location': 
+                                            {
+                                              'lat': 37.2228163, 'lng': -95.7101637
+                                            }, 
+                                              'viewport': 
+                                                {
+                                                  'northeast': 
+                                                      {
+                                                        'lat': 37.2243983802915, 'lng': -95.70881541970849
+                                                      }, 
+                                                    'southwest': 
+                                                      {
+                                                        'lat': 37.2217004197085, 'lng': -95.71151338029149
+                                                      }
+                                                }
+                                        }, 
+                    'icon':'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png', 
+                    'icon_background_color': '#4B96F3', 
+                    'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet', 
+                    'international_phone_number': '+1 620-331-7594', 
+                    'name': 'Walgreens', 
+                    'opening_hours': 
+                        {
+                          'open_now': True, 
+                          'periods': 
+                              [
+                                {
+                                  'close': 
+                                    {
+                                      'day': 0, 
+                                      'time': '2100'
+                                    }, 
+                                  'open': 
+                                    {
+                                      'day': 0,  
+                                      'time': '0900'
+                                    }
+                                }, 
+                                    {
+                                    ......
+                                    }
+                              ], 
+                                'weekday_text': ['Monday: 8:00 AM – 10:00 PM', 'Tuesday: 8:00 AM – 10:00 PM', 'Wednesday: 8:00 AM – 10:00 PM', 'Thursday: 8:00 AM – 10:00 PM', 'Friday: 8:00 AM – 10:00 PM', 'Saturday: 9:00 AM – 9:00 PM', 'Sunday: 9:00 AM – 9:00 PM']}, 'photos': [{'height': 4160, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/117655498682937980414">Sarah Wood</a>'], 'photo_reference': 'AW30NDw8FjjFa2ErHWhcKAqzBxXUWiWgfKQsdmnEtyRE5k5pJ5IgKVq32lUBUo1A_KUn-tD6ybhuFkGrxuvYlPq1_ZKwm84PzutcAlSvhbqPO_k2tJ-8t_T0BuiOktkrwJmrrMCub71CAWC951gBzHezdol8w-XOCKwf2ps7MQVNklKeaSrk', 'width': 2080}, {'height': 456, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/112485740607248843614">Walgreens</a>'], 'photo_reference': 'AW30NDxKNqYW6GhFnresrlHPvGeNtIKchRQ52qIjdmJK0UAHz5Yi3wPnaX3vJyyw3jmTNR6K4izgaHz8de85pv1KsiuBctxbqIU_Xqw8g9_Ih9XUG4pfDFWEJNJAbRPdAVcSUPWuFtOeEJlrejFSMv6tPcIg5gXlXYUVziR3JkywLQ_-gRMO', 'width': 611}, {'height': 1920, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/107613055453754364426">Mike Koehn</a>'], 'photo_reference': 'AW30NDwAUtKFs5MmK-fpRNxnMawWxy2Lc50WjspLOKm9kVYR1PLBa-2kxp5I5RfLDO23tUa7DaMjBkjs2Cc7YQqLiK73JCL712fK8N_1_XMVo-U3JtzDBVFUI4vTSYzlKsx0EfqdHdnLtvAx31riQoqEY6PqaTTbez7Jm8V3OI3OAves3ti3', 'width': 1080}, {'height': 421, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/112485740607248843614">Walgreens</a>'], 'photo_reference': 'AW30NDwpU_FfZWv1AngQW6lzlZBCZ8Mcg--y2NjHOoNZIBlYE2h9kuojm-daEVRO4vJrYWtW22mlaYAILe98oI-zL-Wl5hnPcD4_s1ulIn9BSoYjCwLVlHrsGyRRt9Ee8DOs2Aq-5mUMoxW7Mb_AtaIOTfh2jrfUdbWk0BxnqHozEwxN0Uxw', 'width': 750}, {'height': 4160, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/117655498682937980414">Sarah Wood</a>'], 'photo_reference': 'AW30NDwIRw_Cv4dXauEHFf2NokjDoWoRH7TUIhUJFLkap1o-S8adHTjxTb_FR-rOCYV5Rq3jCM4ewV4Pjjw3X_Tg1Jeq3DOMUW85LPTDHmFfHF5jOEY_UXCCYJdnWuKQxwtYBmnqm5n1i9B3bkJZ-j1LCpWiV0CEBRHdB7VC1vcc8YsBNzw9', 'width': 2080}, {'height': 1920, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/114617219005637284094">Jackie Phillips</a>'], 'photo_reference': 'AW30NDzGP05nlqanBwl2hknWWbbyZPgD0IIVi6oVk7F6u-1LSmTxFG_UfDIn9AN2XV8BfgaGIDG7YW00Vo5xFK8i4BZQ6pRmVCyXtfl3qcHpip2o4NOu3kjryJUJT0rOIRqIFFXQ7UL3LyTvYYxENhdsMAimx6n_ZNpaALybaA9uP0ti4VVO', 'width': 1080}, {'height': 400, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/112485740607248843614">Walgreens</a>'], 'photo_reference': 'AW30NDxHvwhnnZscOBSyynm0U6_j0-TmncqZFPT8umFveJX2F4pAQWmiS5DeziwOV-n6sYyXZl2Tdm7jiKn-tNdn2NudW3CYdwpyYZuQ4wPt4vUgaxeMMZRhUv7VEYH0RUNmwr8k2XrMQ6wNcCD3dk_69jJ8_Lc4U5FXesJi3Ci9MC0DAJeB', 'width': 400}], 'place_id': 'ChIJN68h5T8ruIcRMaRNdl44cvU', 'plus_code': {'compound_code': '67FQ+4W Independence, KS, USA', 'global_code': '869667FQ+4W'}, 'price_level': 2, 'rating': 4.2, 'reference': 'ChIJN68h5T8ruIcRMaRNdl44cvU', 'reviews': [{'author_name': 'Jonathan Goetz', 'author_url': 'https://www.google.com/maps/contrib/103720002152926436993/reviews', 'language': 'en', 'original_language': 'en', 'profile_photo_url': 'https://lh3.googleusercontent.com/a-/ACNPEu_DWPnRnArPv6Fs-4UEg_Kuw4c9o-WLEvlDAl7Mdw=s128-c0x00000000-cc-rp-mo', 'rating': 5, 'relative_time_description': '2 months ago', 'text': "I enjoyed myself and was able to find lots of nice inexpensive instant foods i like; I'll be back! The lady was really nice and greeted me warmly on the way in, scanned each item individually as I am sure they prefer, and bagged all the like items together in a way that makes perfect sense.", 'time': 1660730201, 'translated': False}, {'author_name': 'Anne Ohanrahan', 'author_url': 'https://www.google.com/maps/contrib/115851080960251581956/reviews', 'language': 'en', 'original_language': 'en', 'profile_photo_url': 'https://lh3.googleusercontent.com/a/ALm5wu3No_ULKQ8BwCYEBR9TyfTkOM6XfR4FifpNc6r9=s128-c0x00000000-cc-rp-mo', 'rating': 1, 'relative_time_description': 'in the last week', 'text': 'Wg has cosmetics on sale.  I wanted to buy $30 worth but stood in line....stood in line.  Something about a timed cash drawer...then a customer walks in from outside with a debit card and either finishes checking out ahead of  myself and another customer.  I guess we were waiting on her to retrieve a card and did not know it.  Cashier sh have cancelled that transaction and checked us out. But she did not do so to save the headache of cancelling transaction.  Mgr.  walked up with cash and vanished.  Does WG only have one checkout?  Cashier seemed slow, no conversation happening...no explanation.\nI also was trying to think where my rarely used WG card was as they want it for any discount which irritates me.  Why did Merle Norman close? So I laid the merchandise down and left.   Hire a cashier that can do job.  I will not use self cks.   I will not come back very soon.', 'time': 1667319020, 'translated': False}, {'author_name': 'Chad Follmer', 'author_url': 'https://www.google.com/maps/contrib/112761442932545821946/reviews', 'language': 'en', 'original_language': 'en', 'profile_photo_url': 'https://lh3.googleusercontent.com/a-/ACNPEu_e8fn5gFecUDINUugOHU6YFqsxDDZYELVZ_sN9xw=s128-c0x00000000-cc-rp-mo-ba4', 'rating': 5, 'relative_time_description': '3 months ago', 'text': 'Clean store has great items in the seasonal isle. Best pharmacy in town, does have COVID 19 shots available on a walkin basis. Staff is always friendly and willing to help with anything.', 'time': 1657822424, 'translated': False}, {'author_name': 'Ash h', 'author_url': 'https://www.google.com/maps/contrib/107594335556589889654/reviews', 'language': 'en', 'original_language': 'en', 'profile_photo_url': 'https://lh3.googleusercontent.com/a-/ACNPEu_Foa9N8F7hfG-12VyAZDB4vrMgscHms_55SHvX=s128-c0x00000000-cc-rp-mo', 'rating': 1, 'relative_time_description': '9 months ago', 'text': "Bad customer service, I went to the store with my mom and she was buying medicine for my siblings because they were sick. We went to the register and the lady asks for a drivers lisence. Why would they need that to buy medicine?🤨  the Lady speaks spanish because I heard her a few Years ago and my mom doesnt speak english at all. Why couldnt she speak spanish to her? This happened a lot before to other hispanic customers. This walgreen's just has bad workers. And don't recommend it for colored people because the workers follow them around as if they were going to steal 🤦🏾\u200d♀️", 'time': 1643235696, 'translated': False}, {'author_name': 'Tay Tay', 'author_url': 'https://www.google.com/maps/contrib/111277861940939135463/reviews', 'language': 'en', 'original_language': 'en', 'profile_photo_url': 'https://lh3.googleusercontent.com/a/ALm5wu0s3yJNK1-1L-YrE2K-cUflc0SVn1f6H2t_yNK-=s128-c0x00000000-cc-rp-mo', 'rating': 1, 'relative_time_description': 'a year ago', 'text': "If you are a person of color they will probably follow you around the store like you are going to steal. They followed my little brother and I on multiple occasions with no bases to do so. Yes we are both person's of color. I've put a review up before and they deleted it but, I will continue to respost it. I WILL BE HEARD.", 'time': 1626273463, 'translated': False}], 'secondary_opening_hours': [{'open_now': True, 'periods': [{'close': {'date': '2022-11-06', 'day': 0, 'time': '2100'}, 'open': {'date': '2022-11-06', 'day': 0, 'time': '0900'}}, {'close': {'date': '2022-11-07', 'day': 1, 'time': '2200'}, 'open': {'date': '2022-11-07', 'day': 1, 'time': '0800'}}, {'close': {'date': '2022-11-08', 'day': 2, 'time': '2200'}, 'open': {'date': '2022-11-08', 'day': 2, 'time': '0800'}}, {'close': {'date': '2022-11-09', 'day': 3, 'time': '2200'}, 'open': {'date': '2022-11-09', 'day': 3, 'time': '0800'}}, {'close': {'date': '2022-11-10', 'day': 4, 'time': '2200'}, 'open': {'date': '2022-11-10', 'day': 4, 'time': '0800'}}, {'close': {'date': '2022-11-11', 'day': 5, 'time': '2200'}, 'open': {'date': '2022-11-11', 'day': 5, 'time': '0800'}}, {'close': {'date': '2022-11-05', 'day': 6, 'time': '2100'}, 'open': {'date': '2022-11-05', 'day': 6, 'time': '0900'}}], 'type': 'PICKUP', 'weekday_text': ['Monday: 8:00 AM – 10:00 PM', 'Tuesday: 8:00 AM – 10:00 PM', 'Wednesday: 8:00 AM – 10:00 PM', 'Thursday: 8:00 AM – 10:00 PM', 'Friday: 8:00 AM – 10:00 PM', 'Saturday: 9:00 AM – 9:00 PM', 'Sunday: 9:00 AM – 9:00 PM']}], 'types': ['drugstore', 'convenience_store', 'clothing_store', 'food', 'point_of_interest', 'store', 'health', 'establishment'], 'url': 'https://maps.google.com/?cid=17686260665000240177', 'user_ratings_total': 34, 'utc_offset': -300, 'vicinity': '301 West Main Street, Independence', 'website': 'https://www.walgreens.com/locator/walgreens-301+w+main+st-independence-ks-67301/id=9454'}, 'status': 'OK'}

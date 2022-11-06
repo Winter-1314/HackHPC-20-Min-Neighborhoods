@@ -1,0 +1,91 @@
+{
+    'html_attributions': [], 
+    'results': 
+        [
+            {
+                'business_status': 'OPERATIONAL', 
+                'geometry': 
+                    {
+                        'location': 
+                            {
+                                'lat': 37.7222979, 
+                                'lng': -97.24638809999999
+                            }, 
+                        'viewport': 
+                            {
+                                'northeast': 
+                                    {
+                                        'lat': 37.72365397989272, 
+                                        'lng': -97.24524182010728
+                                    }, 
+                                'southwest': 
+                                    {
+                                        'lat': 37.72095432010727, 
+                                        'lng': -97.24794147989272
+                                    }
+                            }
+                    }, 
+                'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png', 
+                'icon_background_color': '#FF9E67', 
+                'icon_mask_base_uri': 'DATA', 
+                'name': 'Tuptim Thai', 
+                'opening_hours': 
+                    {
+                        'open_now': False
+                    }, 
+                'photos': 
+                    [
+                        {
+                            'height': 2268, 
+                            'html_attributions': 
+                                [
+                                    'LINK'
+                                ], 
+                            'photo_reference':'LINK', 
+                            'width': 4032
+                        }
+                    ], 
+                'place_id': 'ChIJX3mpNAP9uocRJKjp1S618qk', 
+                'plus_code': 
+                    {
+                        'compound_code': 'PQC3+WC Wichita, Kansas', 
+                        'global_code': '8694PQC3+WC'
+                    }, 
+                'price_level': 2, 
+                'rating': 4.7, 
+                'reference': 'ChIJX3mpNAP9uocRJKjp1S618qk', 
+                'scope': 'GOOGLE', 
+                'types': 
+                    [
+                        'restaurant', 
+                        'point_of_interest', 
+                        'food',
+                        'establishment'
+                    ], 
+                'user_ratings_total': 478, 
+                'vicinity': '2121 N Rock Rd #300, Wichita'
+            }, 
+                {
+                'business_status': 'OPERATIONAL', 
+                'geometry': 
+                    {
+                        'location': 
+                            {
+                                'lat': 37.722427, 
+                                'lng': -97.2467178
+                            }, 
+                        'viewport': 
+                            {
+                                'northeast': 
+                                    {
+                                        'lat': 37.72384502989272, 
+                                        'lng': -97.24539982010728
+                                    }, 
+                                'southwest': 
+                                    {
+                                        'lat': 37.72114537010728, 
+                                        'lng': -97.24809947989272
+                                    }
+                            }
+                    }, 
+                'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png', 'icon_background_color': '#FF9E67', 'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet', 'name': 'Malaysia Cafe', 'opening_hours': {'open_now': False}, 'photos': [{'height': 3036, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/106646561691491959238">VAi Vij</a>'], 'photo_reference': 'AW30NDxU229DYKLuqJ4Lpq-MDbF2VVbyPy0x-SMiHWysZXmP5TygaFAM8HXYXYpHbV9FdA9Ur6y89Z4t7RohTTjTH9hR9pvEGS-TtyZ4QI9Vtl4V3_ius1__R5RoLCX20cEb9dtMdAizW9yXQwN_gxt3pHadM3gUESQRAd9b39oJIwvRJT25', 'width': 4048}], 'place_id': 'ChIJO4gpGSP9uocRxZHk5gCSt8s', 'plus_code': {'compound_code': 'PQC3+X8 Wichita, Kansas', 'global_code': '8694PQC3+X8'}, 'price_level': 1, 'rating': 4.3, 'reference': 'ChIJO4gpGSP9uocRxZHk5gCSt8s', 'scope': 'GOOGLE', 'types': ['restaurant', 'point_of_interest', 'food', 'establishment'], 'user_ratings_total': 213, 'vicinity': '7777 E 21st St N Suite 150, Wichita'}, {'business_status': 'OPERATIONAL', 'geometry': {'location': {'lat': 37.722475, 'lng': -97.2470669}, 'viewport': {'northeast': {'lat': 37.72386977989272, 'lng': -97.24564997010727}, 'southwest': {'lat': 37.72117012010728, 'lng': -97.24834962989272}}}, 'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png', 'icon_background_color': '#FF9E67', 'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet', 'name': "Jimmy's Egg - Wichita, 21st & Rock", 'opening_hours': {'open_now': False}, 'photos': [{'height': 2952, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/108359825430347915913">Mark Dietsch</a>'], 'photo_reference': 'AW30NDwZUsx11WFiCKyJ5tseBKfVvEG26lKdwDVtGB6L-JHUdl67IWthWCpq7HRRbtxbzlBZLcxEsI_pu0j0qxZWAwdNqnc5xy_u_yxdGevcvahM74ni8lnb00tK9jm83zxWWGQHtNiAAIBVcEfFq_1pgpDQpaj4fNHPLFk7jYHJ9pe12MaZ', 'width': 5248}], 'place_id': 'ChIJl9ErGSP9uocRLwiuueY1UCU', 'plus_code': {'compound_code': 'PQC3+X5 Wichita, Kansas', 'global_code': '8694PQC3+X5'}, 'price_level': 1, 'rating': 4.3, 'reference': 'ChIJl9ErGSP9uocRLwiuueY1UCU', 'scope': 'GOOGLE', 'types': ['restaurant', 'point_of_interest', 'food', 'establishment'], 'user_ratings_total': 611, 'vicinity': '7777 E 21st St N, Wichita'}, {'business_status': 'OPERATIONAL', 'geometry': {'location': {'lat': 37.7204756, 'lng': -97.245677}, 'viewport': {'northeast': {'lat': 37.72185947989272, 'lng': -97.24426187010728}, 'southwest': {'lat': 37.71915982010728, 'lng': -97.24696152989273}}}, 'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png', 'icon_background_color': '#FF9E67', 'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet', 'name': 'HuHot Mongolian Grill', 'opening_hours': {'open_now': False}, 'photos': [{'height': 3036, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/101127749848081571793">Daniel Asher</a>'], 'photo_reference': 'AW30NDxbofPhFuXCYHfvHGW7NfGldoDY_0vPgKhY6TP4x-Esk5bhUGCoRoIsMa_JAq1Bs8Lt6cjm2W9odXOxi1736yVbTRWZZDYlwDVfxZLEMRyLqR55DAIMOKPEN1S4ckUx2olWXkqB5aBw8n24G392Rf6w-n3M5smw-jmiFO2kSNkqJzEB', 'width': 4048}], 'place_id': 'ChIJic0qRCL9uocRtC9sZe8w6JM', 'plus_code': {'compound_code': 'PQC3+5P Wichita, Kansas', 'global_code': '8694PQC3+5P'}, 'price_level': 2, 'rating': 4.4, 'reference': 'ChIJic0qRCL9uocRtC9sZe8w6JM', 'scope': 'GOOGLE', 'types': ['restaurant', 'point_of_interest', 'food', 'establishment'], 'user_ratings_total': 2076, 'vicinity': '2035 N Rock Rd, Wichita'}, {'business_status': 'OPERATIONAL', 'geometry': {'location': {'lat': 37.722658, 'lng': -97.24508399999999}, 'viewport': {'northeast': {'lat': 37.72399742989272, 'lng': -97.24357377010729}, 'southwest': {'lat': 37.72129777010728, 'lng': -97.24627342989272}}}, 'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png', 'icon_background_color': '#FF9E67', 'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet', 'name': "Torchy's Tacos", 'opening_hours': {'open_now': False}, 'photos': [{'height': 3024, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/101430321536473181869">Jerry</a>'], 'photo_reference': 'AW30NDxJVCj6R5u0K9ngLYx5y0sns0Z2RTI-goeOuuAlM-Zf5kA7AdoRKMnYz0c8eHCGZoUYmov4Z354O6uN8OoD88pp2JN579f32g9j4y1cDb4rkEyYWvZVg7p8SnrIWnnmxAkvdKYDmtBE2gIdljLmgtPu6wALs4lss7zHwlrycl9fkqDr', 'width': 4032}], 'place_id': 'ChIJ0Sbz30j9uocRvEYALn0-rdY', 'plus_code': {'compound_code': 'PQF3+3W Wichita, Kansas', 'global_code': '8694PQF3+3W'}, 'price_level': 1, 'rating': 3.9, 'reference': 'ChIJ0Sbz30j9uocRvEYALn0-rdY', 'scope': 'GOOGLE', 'types': ['restaurant', 'point_of_interest', 'food', 'establishment'], 'user_ratings_total': 756, 'vicinity': '2191 N Rock Rd, Wichita'}, {'business_status': 'OPERATIONAL', 'geometry': {'location': {'lat': 37.72046539999999, 'lng': -97.24517349999999}, 'viewport': {'northeast': {'lat': 37.72181522989272, 'lng': -97.24382517010727}, 'southwest': {'lat': 37.71911557010728, 'lng': -97.24652482989272}}}, 'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png', 'icon_background_color': '#FF9E67', 'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet', 'name': 'Bricktown Brewery', 'opening_hours': {'open_now': False}, 'photos': [{'height': 3984, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/101422089876510767917">Brian Lyday</a>'], 'photo_reference': 'AW30NDxpTzsFo6jowDybkM12hk4OfJZPWBxU0UMPONHv4oKQTYJRtBeLa9vca0wzdiPR3L_SOhVi1AqaOeCvVWQiVcnuK1OwFuZhwBpKBXg6lw5Wzx1BISUMV5g4GX0NyB42b0i8P96tjZqbU-GIQVMZoYbrO55AqcwLf1rXI-Y7dvwBB66m', 'width': 2988}], 'place_id': 'ChIJ6WgoQSL9uocRbUlZbPgzq9U', 'plus_code': {'compound_code': 'PQC3+5W Wichita, Kansas', 'global_code': '8694PQC3+5W'}, 'price_level': 2, 'rating': 4.4, 'reference': 'ChIJ6WgoQSL9uocRbUlZbPgzq9U', 'scope': 'GOOGLE', 'types': ['bar', 'restaurant', 'point_of_interest', 'food', 'establishment'], 'user_ratings_total': 1222, 'vicinity': '2035 Rock Rd, Wichita'}, {'business_status': 'OPERATIONAL', 'geometry': {'location': {'lat': 37.7240558, 'lng': -97.2440829}, 'viewport': {'northeast': {'lat': 37.72532512989272, 'lng': -97.2427442701073}, 'southwest': {'lat': 37.72262547010727, 'lng': -97.24544392989273}}}, 'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png', 'icon_background_color': '#FF9E67', 'icon_mask_base_uri': 'https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet', 'name': 'Taco Bell', 'opening_hours': {'open_now': True}, 'photos': [{'height': 3120, 'html_attributions': ['<a href="https://maps.google.com/maps/contrib/110929457790443007327">Keaton Z.</a>'], 'photo_reference': 'AW30NDw0vQsFLqFMcAKHIzTYNcPFmwchXIiuuPYnFbM-iOOM1-lhpC17sDYA3ypHMRhQR-qG_i8jlbG9JhjQvKES2x6wIO8F07O1LDpDiZ0T-YcZ31KFU2wmkIfLlhnKQ4j4JdXX2ZPIm40nGSvsnKytgDCdWq7DVPEdnfoxGVguq90xAO1o', 'width': 4208}], 'place_id': 'ChIJzcUWrCL9uocR0I9tMaVUMfY', 'plus_code': {'compound_code': 'PQF4+J9 Wichita, Kansas', 'global_code': '8694PQF4+J9'}, 'price_level': 1, 'rating': 3.5, 'reference': 'ChIJzcUWrCL9uocR0I9tMaVUMfY', 'scope': 'GOOGLE', 'types': ['meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment'], 'user_ratings_total': 382, 'vicinity': '2230 N Rock Rd, Wichita'}], 'status': 'OK'}
