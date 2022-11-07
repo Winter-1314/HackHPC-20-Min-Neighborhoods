@@ -24,6 +24,6 @@ For more infomation please check out the HackHPC webpage [here](https://hackhpc.
   
   2.[Final Presentation Google Slides](https://docs.google.com/presentation/d/1XE5liKk9wjl8vzCv_PacL2hXaqeI8jvHBULChUYW7gY/edit#slide=id.g1858e86bc39_1_63)
   
-  3.[Final Presentation PDF]()
+  3.[Final Presentation PDF](https://drive.google.com/file/d/1oOZEM6Pt75KBVC45Pwv5vyQOxxCEocE7/view?usp=sharing)
 
 Theme Song: [Thundercat - 'Them Changes](https://www.youtube.com/watch?v=GNCd_ERZvZM)
