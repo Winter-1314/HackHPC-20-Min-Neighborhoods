@@ -14,5 +14,7 @@
   The team built an evalutation tool in Python using Googlemaps python library to find the places within a 20 minute walk or bike ride. These places include hospitals, pharmacies, grocery stores, all basic need providers. This tool can be used to determine if a neighborhood is accessible by determining how many of these places are available in a 20 min range. 
 ## Deliverables:
   1.[Progress Report Google Slides](https://docs.google.com/presentation/d/1nHo0h6q3Nim2ejv6n5GTWnDmzTdTBHDueDAFRPLt7TY/edit?usp=sharing)
+  
   2.[Final Presentation Google Slides](https://docs.google.com/presentation/d/1XE5liKk9wjl8vzCv_PacL2hXaqeI8jvHBULChUYW7gY/edit#slide=id.g1858e86bc39_1_63)
+  
   3.[Final Presentation PDF]()
