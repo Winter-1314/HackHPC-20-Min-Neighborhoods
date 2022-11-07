@@ -4,13 +4,13 @@ This project is part of HackHPC - SC22's HPC in the City: Dallas hackathon
 For more infomation please check out the HackHPC webpage [here](https://hackhpc.github.io/HPCintheCity22/).
 
 ## Team Members:
-  - Kevin Chen
-  - Marie Michelle Ishimwe
-  - Carlos Iglesias
+  - Kevin Chen [[LinkedIn]](https://www.linkedin.com/in/kchen1314/) - [University of Maryland, Baltimore County](https://umbc.edu/) (Computer Science)
+  - Marie Michelle Ishimwe [[LinkedIn]](http://www.linkedin.com/in/mariemichelle2000) - [Methodist University](https://www.methodist.edu/) (Computer Science)
+  - Carlos Iglesias [[LinkedIn]](https://www.linkedin.com/in/carlos-a-iglesias-ng-7001061b7) - [University of Puerto Rico in Mayaguez](https://www.uprm.edu/ecafss/collaborators/uprm/) (Computer Science and Engineering)
 ## Mentors:
-  - Pat Cherrer
-  - Edgar G.
-  - Adonay Sisay
+  - Mentor: Edgar Garza - [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/)
+  - Co-Mentor: Pat Scherer - [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/)
+  - Technical Mentor: Adonay Sissay - [Northwestern State University](https://www.nsula.edu/)
 ## Description:
   ***Is your neighborhood accessible?*** At the core of cities' functionality and accessibilty is land use, and the tool that the team has made can help determine that. According to this [article](https://www.dmagazine.com/frontburner/2020/02/20-minute-neighborhoods-could-solve-many-of-dallas-urban-problems/) by Peter Simek, the idea of measuring a city' accessibility by how many things can be found within a 20 min walk or bike ride is an approach that global major cities such as Paris, Portland, Melbourne, and Barcelona are looking into. It is more sustainable and a solution to many urban settlement challenges such as rising gas and energy costs, transportation costs and more. 
 ## Our solution:
