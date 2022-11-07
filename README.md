@@ -18,7 +18,7 @@ For more infomation please check out the HackHPC webpage [here](https://hackhpc.
 
 ## Goals:
  - Develop a python program that will generate a list of Locations within 20 minutes of an Address
- - [Youtube: Team Goals](https://www.youtube.com/watch?v=6TQnIcOEJqU&t=59s)
+ - Youtube: [Team Goals](https://www.youtube.com/watch?v=6TQnIcOEJqU&t=59s)
 ## Deliverables:
   1.[Progress Report Google Slides](https://docs.google.com/presentation/d/1nHo0h6q3Nim2ejv6n5GTWnDmzTdTBHDueDAFRPLt7TY/edit?usp=sharing)
   
